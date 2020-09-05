@@ -1,4 +1,4 @@
-<h1 align="center">Mobile Flashcards React Native</h1>
+<h1 align="center">Flashcards APP React Native</h1>
 
 This app is for the third projects of Udacity react Nanodegree Goals of this app is to allows users to create decks, add cards and quiz themselves.
 
@@ -7,7 +7,7 @@ This app is for the third projects of Udacity react Nanodegree Goals of this app
 
 Ensure that you install `expo-cli`
 ```bash
-$ git clone https://github.com/cangir/mobile-flashcards.git
+$ git clone https://github.com/patbpm/udacity-flashcard.git
 $ cd udacity-flashcard
 $ npm install
 ```
