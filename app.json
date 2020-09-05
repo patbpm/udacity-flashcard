@@ -1,0 +1,12 @@
+{
+  "name": "udacity-flashcard",
+  "displayName": "udacity-flashcard",
+  "expo": {
+    "name": "udacity-flashcard",
+    "slug": "udacity-flashcard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
